@@ -1,6 +1,6 @@
 # algoHW1
 
-AVL Tree
+AVL Tree  
 Code is not completed, hopefully it can shows the algorithm correctly.
 
 ## functions explanation
